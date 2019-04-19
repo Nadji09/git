@@ -32,5 +32,6 @@ class MainActivity : AppCompatActivity() {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener)
         println("here s the first commit")
         println("this won't be appearant in the next commit ;) ")
+        println("Added in distant depot")
     }
 }
