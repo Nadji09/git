@@ -33,5 +33,7 @@ class MainActivity : AppCompatActivity() {
         println("here s the first commit")
         println("this won't be appearant in the next commit ;) ")
         println("Added in distant depot")
+
+        println("new Branch")
     }
 }
